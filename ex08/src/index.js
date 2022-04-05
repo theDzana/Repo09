@@ -1,9 +1,9 @@
 // Only change code below this line
 function logicalAndOperator(num) {
     if(num <= 80 && num >= 40) {
-        return "Yes"
+        return "Yes";
     }
-    return "No"
+    return "No";
 }
 logicalAndOperator(0);
 logicalAndOperator(24);
