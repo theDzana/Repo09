@@ -1,4 +1,4 @@
-// Only change code below this line
+// Write code below this line
 function switchCase(letter) {
     var animals;
     switch(letter) {
@@ -26,5 +26,5 @@ console.log(switchCase("b"));
 console.log(switchCase("c"));
 console.log(switchCase("d"));
 console.log(switchCase(4));
-// Only change code above this line
+// Write code above this line
 module.exports = switchCase;
