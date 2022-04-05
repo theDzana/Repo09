@@ -2,7 +2,7 @@
 function randomRangeNumber(minNumber, maxNumber) {
     return Math.floor(Math.random() * (maxNumber - minNumber)) + minNumber;
 }
-randomRangeNumber(20, 5);
-console.log(randomRangeNumber(10, 5));
+randomRangeNumber(22, 7);
+console.log(randomRangeNumber(22, 7));
 // Only change code above this line
 module.exports = randomRangeNumber;
