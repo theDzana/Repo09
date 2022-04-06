@@ -15,6 +15,7 @@ function switchCase(letter) {
             return "stuff";
             break;
     }
+    return animals;
 }
 switchCase("a");
 switchCase("b");
